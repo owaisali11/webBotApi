@@ -1,0 +1,1 @@
+web: dotnet webBotApi.dll --urls=http://+:$PORT
