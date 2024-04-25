@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webBotApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02f32723f8493bb0f122bc568ed4ac48acd9111e")]
 [assembly: System.Reflection.AssemblyProductAttribute("webBotApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webBotApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

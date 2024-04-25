@@ -43,7 +43,7 @@ namespace webBotApi.Controllers
 
             string orderId = orderIdField;
 
-            // Fetch the shipment date from the API
+            // Fetch the shipment date 
             string shipmentDate = await FetchShipmentDate(orderId);
 
             if (string.IsNullOrEmpty(shipmentDate))
